@@ -56,3 +56,10 @@ git diff Branch_1 Branch_2 # 브랜치간의 비교도 가능
 # 코드 수정 후 저장 > 취소 (ui discard changes)
 # Add 후 취소 > add 및 작업 취소 (ui discard changes)
 # 커밋 취소하는법
+
+# 가장 최신의 커밋 취소
+git reset HEAD~1
+git reset HEAD^
+
+# 이미 push된 커밋 사항 되돌리기 (완전한 취소 X) -> 새로운 Commit_ID 생성
+git revert Commit_ID
