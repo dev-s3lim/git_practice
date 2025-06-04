@@ -1,0 +1,3 @@
+testfolder/important_config.yml
+#한번 커밋된 파일은 즉시 ignore 처리되지 않음
+test.txt
