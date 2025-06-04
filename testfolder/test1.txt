@@ -5,3 +5,4 @@ Hello World! Additional Test 4!
 Hello World! Additional Test 5! *edited*
 Hello World! Additional Test 6! *edited*
 Hello World! Additional Test 7! *merge test*
+Hello World! Additional Test 8! *crash test*
