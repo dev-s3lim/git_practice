@@ -4,5 +4,9 @@ Hello World! Additional Test 3!
 Hello World! Additional Test 4!
 Hello World! Additional Test 5! *edited*
 Hello World! Additional Test 6! *edited*
+<<<<<<< HEAD
 Hello World! Additional Test 6! *merge test*
 Hello World! Additional Test 8! *crash test*
+=======
+Hello World! Additional Test 8! *merge test*
+>>>>>>> bf45447254c56bf87f4d34900855ea55d3059baf
