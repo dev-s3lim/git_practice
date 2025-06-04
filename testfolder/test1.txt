@@ -9,4 +9,4 @@ Hello World! Additional Test 88! *crash fixed*
 Hello World! Additional Test 99! *crash* 
 Hello World! Additional Test 100!
 Hello World! Additional Test 200!
-Hello World! Additional Test 300$
+Hello World! Additional Test 300! *resolved!*
