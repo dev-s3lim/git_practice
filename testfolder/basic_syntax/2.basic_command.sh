@@ -75,3 +75,20 @@ git stash list
 
 # 저장 목록 전체 삭제
 git stash clear
+
+# 태그 관련 명령어
+# 가장 최근의 커밋이 태그에 명시됨
+git tag 태그버전명
+
+# 태그 release : **코드의 커밋 푸쉬와 별개로 작업을 진행해야 함**
+git push origin 태그버전명
+
+# 태그 목록 조회
+git tag
+
+# branch 생성
+# ***반드시 main 브랜치로 체크아웃해야함 (현재 checkout 된 브랜치를 기준으로 브랜치 생성됨!!!)
+git branch 브랜치명
+
+# 새로운 작업 시작시에 main을 최신화 한 후에 main을 기준으로 branch 생성
+git pull origin main
