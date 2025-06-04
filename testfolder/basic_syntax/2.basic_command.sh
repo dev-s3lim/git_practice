@@ -32,3 +32,6 @@ git checkout 브랜치
 #HEAD는 현재 체크아웃된 브랜치의 커밋을 의미
 #다시 원래의 commit으로 돌아오기
 git checkout 브랜치(main등)
+
+#fetch 내 소스 코드에 반영은 안됨 (d까지 헤드 안 옮김)
+#pull 내 소스 코드에 반영됨 (d까지 헤드 옮겨버림)
